@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Tragedy",
+  "base_artist": "Dhruv",
+  "createdAt": "2026-03-12T07:34:00.539534Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Genghis Khan ft. Tragedy Khadafi",
+      "artist": "Jedi Mind Tricks",
+      "has_synced": true,
+      "path": "select/01_Genghis_Khan_ft._Tragedy_Khadafi_Jedi_Mind_Tricks.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Name This Ship the Tragedy, Bless Her & All Who Sail With Her",
+      "artist": "Matt Elliott",
+      "has_synced": true,
+      "path": "select/02_I_Name_This_Ship_the_Tragedy,_Bless_Her_&_All_Who_Sail_With_Her_Matt_Elliott.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Every Artist Needs a Tragedy",
+      "artist": "No Age",
+      "has_synced": true,
+      "path": "select/03_Every_Artist_Needs_a_Tragedy_No_Age.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Tragedy",
+      "artist": "Okay",
+      "has_synced": false,
+      "path": "select/04_Tragedy_Okay.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Echoes of Tragedy",
+      "artist": "Rhapsody",
+      "has_synced": true,
+      "path": "select/05_Echoes_of_Tragedy_Rhapsody.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Tragedy",
+      "artist": "Christian Death",
+      "has_synced": false,
+      "path": "select/06_Tragedy_Christian_Death.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bittersweet Tragedy",
+      "artist": "Melanie Martinez",
+      "has_synced": true,
+      "path": "select/07_Bittersweet_Tragedy_Melanie_Martinez.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Black Gangstas (Feat. Tragedy Khadafi)",
+      "artist": "Capone-N-Noreaga",
+      "has_synced": true,
+      "path": "select/08_Black_Gangstas_(Feat._Tragedy_Khadafi)_Capone-N-Noreaga.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Channel 10 (Feat. Tragedy Khadafi)",
+      "artist": "Capone-N-Noreaga",
+      "has_synced": true,
+      "path": "select/09_Channel_10_(Feat._Tragedy_Khadafi)_Capone-N-Noreaga.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Halfway Thugs (Feat. Tragedy Khadafi)",
+      "artist": "Capone-N-Noreaga",
+      "has_synced": false,
+      "path": "select/10_Halfway_Thugs_(Feat._Tragedy_Khadafi)_Capone-N-Noreaga.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Illegal Life (Feat. Tragedy Khadafi & Havoc)",
+      "artist": "Capone-N-Noreaga",
+      "has_synced": true,
+      "path": "select/11_Illegal_Life_(Feat._Tragedy_Khadafi_&_Havoc)_Capone-N-Noreaga.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Parole Violators (Feat. Tragedy Khadafi & Havoc)",
+      "artist": "Capone-N-Noreaga",
+      "has_synced": false,
+      "path": "select/12_Parole_Violators_(Feat._Tragedy_Khadafi_&_Havoc)_Capone-N-Noreaga.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "T.O.N.Y. (Top of New York) (Feat. Tragedy Khadafi)",
+      "artist": "Capone-N-Noreaga",
+      "has_synced": true,
+      "path": "select/13_T.O.N.Y._(Top_of_New_York)_(Feat._Tragedy_Khadafi)_Capone-N-Noreaga.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Tragedy of War (in III Parts)",
+      "artist": "Company Flow",
+      "has_synced": true,
+      "path": "select/14_Tragedy_of_War_(in_III_Parts)_Company_Flow.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Scene Three: II. Fatal Tragedy",
+      "artist": "Dream Theater",
+      "has_synced": true,
+      "path": "select/15_Scene_Three__II._Fatal_Tragedy_Dream_Theater.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Kick the Tragedy",
+      "artist": "Drop Nineteens",
+      "has_synced": false,
+      "path": "select/16_Kick_the_Tragedy_Drop_Nineteens.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Tragedy",
+      "artist": "Hanoi Rocks",
+      "has_synced": true,
+      "path": "select/17_Tragedy_Hanoi_Rocks.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Tragedy",
+      "artist": "Dhruv",
+      "has_synced": false,
+      "path": "select/pl_01_Tragedy_Dhruv.txt"
+    }
+  ]
+}
